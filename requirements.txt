@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+huggingface-hub
+duckduckgo-search
+python-dotenv
+requests
+aiosqlite
+langgraph-checkpoint-sqlite
